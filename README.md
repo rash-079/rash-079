@@ -1,6 +1,6 @@
 <h1 align="center">Hey developers 👋, I'm Rasmi Ranjan</h1>
 <h3 align="center">A Software Geek</h3>
-<img align="right" alt="coding"width="400"src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
+<img align="right" alt="coding"width="350"src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rash-079&label=Profile%20views&color=0e75b6&style=flat" alt="rash-079" /> </p>
 
