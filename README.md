@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rash-079&label=Profile%20views&color=0e75b6&style=flat" alt="rash-079" /> </p>
 
-- 🌱 I’m currently learning **Full stack Webdev&BlockChain.**
+- 🌱 I’m currently learning **Full Stack Flutter.**
 
 - ⚡ Fun fact **A foodie**
 
